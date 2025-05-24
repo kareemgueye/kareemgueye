@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Kareem Gueye
 
-<!--
-**kareemgueye/kareemgueye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Biomedical Engineering student at VCU focused on research at the intersection of machine learning, signal processing, and cardiology. This GitHub highlights projects in ECG analysis, optical mapping, and medical data modeling.
 
-Here are some ideas to get you started:
+## 🔬 Current Focus`
+- ML research at VCU Cardiology Lab
+- ECG signal processing and optical mapping
+- Python, MATLAB, and medical data science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📁 Featured Projects
+
+### [🧠 kNN Cardiac Classifier](https://github.com/kareemgueye/knn-cardiac-classifier)
+A k-Nearest Neighbors model built to classify arrhythmias using ECG features. Focuses on real-world classification tasks.
+
+### [📊 ECG Signal Processing](https://github.com/kareemgueye/ecg-signal-processing)
+Signal filtering, peak detection, and frequency analysis of raw ECG data in Python.
+
+### [🧬 Optical Mapping ML Analysis](https://github.com/kareemgueye/optical-mapping-ml)
+Applies ML to optical imaging datasets to detect cardiac conduction abnormalities.
+
+---
+
+## 💡 Skills
+**Languages:** Python, MATLAB, HTML/CSS  
+**Libraries:** NumPy, Pandas, scikit-learn, Matplotlib  
+**Tools:** Git, Jupyter, Google Colab
