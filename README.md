@@ -1,26 +1,36 @@
-# 👋 Hi, I'm Kareem Gueye
+# 👋🏽 Hi, I'm Kareem Gueye
 
-I'm a Biomedical Engineering student at VCU focused on research at the intersection of machine learning, signal processing, and cardiology. This GitHub highlights projects in ECG analysis, optical mapping, and medical data modeling.
-
-## 🔬 Current Focus`
-- ML research at VCU Cardiology Lab
-- ECG signal processing and optical mapping
-- Python, MATLAB, and medical data science
-
-## 📁 Featured Projects
-
-### [🧠 kNN Cardiac Classifier](https://github.com/kareemgueye/knn-cardiac-classifier)
-A k-Nearest Neighbors model built to classify arrhythmias using ECG features. Focuses on real-world classification tasks.
-
-### [📊 ECG Signal Processing](https://github.com/kareemgueye/ecg-signal-processing)
-Signal filtering, peak detection, and frequency analysis of raw ECG data in Python.
-
-### [🧬 Optical Mapping ML Analysis](https://github.com/kareemgueye/optical-mapping-ml)
-Applies ML to optical imaging datasets to detect cardiac conduction abnormalities.
+I'm a Biomedical Engineering student at VCU passionate about merging machine learning, signal processing, and entrepreneurship. I build tools that decode health data — and craft content that connects people to products. This is my digital lab and marketing studio, all in one.
 
 ---
 
-## 💡 Skills
+## 🧠 Biomedical Projects
+
+### [🧠 EEG Brain State Classifier](https://github.com/kareemgueye/eeg-brainstate-classifier)
+A signal processing + machine learning project that classifies resting vs. active brain states using EEG data. Focused on feature extraction and model accuracy.
+
+### [🦴 Bone Fracture X-ray Detector](https://github.com/kareemgueye/bone-fracture-xray-detector)
+A deep learning CNN model trained to detect fractures in bone X-rays using a curated public dataset. Includes model explainability (Grad-CAM) and preprocessing pipeline.
+
+---
+
+## 💼 Entrepreneurial Projects
+
+### [🎥 TikTok Shop Affiliate Marketing](https://github.com/kareemgueye/tiktok-shop-affiliate)
+Affiliate marketing campaign portfolio showing TikTok product promotion, short-form content scripting, and conversion analytics.
+
+- Reached 1.2M+ views on top video
+- Earned $10k+ in commissions from product videos
+- Created 15+ high-performing short-form videos
+
+---
+
+## 🛠️ Skills & Tools
+
 **Languages:** Python, MATLAB, HTML/CSS  
-**Libraries:** NumPy, Pandas, scikit-learn, Matplotlib  
-**Tools:** Git, Jupyter, Google Colab
+**Libraries:** NumPy, scikit-learn, TensorFlow, OpenCV, MNE-Python  
+**Tools:** Jupyter, Git, Canva, CapCut, TikTok, Notion, Excel(Microsoft Office), Solidworks, Adobe Premier & Photoshop 
+
+---
+
+> 🧩 I like building things that solve real problems — in the lab or on the timeline.
